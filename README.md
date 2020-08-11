@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a data enginner specializing in:
+I'm a data engineer specializing in:
 
 1. Google Cloud Platform
 2. R
