@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a data enginner specializing in:
+
+1. Google Cloud Platform
+2. R
+3. SQL
+4. Shell
